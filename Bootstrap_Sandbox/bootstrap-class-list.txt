@@ -1,0 +1,83 @@
+1. Basic Typography
+	h1
+	display-1, display-2, display-3, display-4
+	font-weight-bold
+	font-weight-normal
+	font-italic
+	text-lowercase
+	text-uppercase
+	text-capitalized
+	blockquote
+	blockquote-footer
+	list-unstyled
+	list-inline
+	list-inline-item
+
+2. Text alignment and Display
+	text-justify
+	text-left
+	text-center
+	text-right
+	text-sm-left
+	text-sm-center
+	text-sm-right
+	text-md-left
+	text-md-center
+	text-md-right
+	text-lg-left
+	text-lg-center
+	text-lg-right
+	text-xl-left
+	text-xl-center
+	text-xl-right
+	align-baseline
+	align-top
+	align-bottom
+	align-middle
+	text-top
+	text-bottom
+	d-inline
+	d-block
+	d-inline-block
+
+3. Floats and Position
+	float-left
+	float-right
+	float-none
+	float-sm-left
+	float-sm-right
+	float-sm-none
+	float-md-left
+	float-md-right
+	float-md-none
+	float-lg-left
+	float-lg-right
+	float-lg-none
+	float-xl-left
+	float-xl-right
+	float-xl-none
+	clearfix
+	fixed-top
+	sticky-top
+	fixed-bottom
+
+4. Color and Backgrounds
+	text-primary
+	text-secondary
+	text-success
+	text-info
+	text-warning
+	text-danger
+	text-light
+	text-dark
+	text-white
+	bg-primary
+	bg-secondary
+	bg-success
+	bg-info
+	bg-warning
+	bg-danger
+	bg-light
+	bg-dark
+	bg-white
+	invisible
