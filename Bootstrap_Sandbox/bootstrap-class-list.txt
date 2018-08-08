@@ -82,35 +82,155 @@
 	bg-white
 	invisible
 5. Spacing
-	mb-1 
-	mb-2
-	mb-3
-	mb-4
-	mb-5
-	mt-1
-	mt-2
-	mt-3
-	mt-4
-	mt-5
-	ml-1
-	ml-2
-	ml-3
-	ml-4
-	ml-5
-	mr-1
-	mr-2
-	mr-3
-	mr-4
-	mr-5
-	mx-1
-	mx-2
-	mx-3
-	mx-4
-	mx-5
-	my-1
-	my-2
-	my-3
-	my-4
-	my-5
-		
+	mb-0 (margin bottom)
+	mb-1 (margin bottom)
+	mb-2 (margin bottom) 
+	mb-3 (margin bottom)
+	mb-4 (margin bottom)
+	mb-5 (margin bottom)
+	mt-0 (margin top)
+	mt-1 (margin top)
+	mt-2 (margin top)
+	mt-3 (margin top)
+	mt-4 (margin top)
+	mt-5 (margin top)
+	ml-0 (margin left)
+	ml-1 (margin left)
+	ml-2 (margin left)
+	ml-3 (margin left)
+	ml-4 (margin left)
+	ml-5 (margin left)
+	mr-0 (margin right)
+	mr-1 (margin right)
+	mr-2 (margin right)
+	mr-3 (margin right)
+	mr-4 (margin right)
+	mr-5 (margin right)
+	mx-0 (margin left and right)
+	mx-1 (margin left and right)
+	mx-2 (margin left and right)
+	mx-3 (margin left and right)
+	mx-4 (margin left and right)
+	mx-5 (margin left and right)
+	my-0 (margin top and bottom)
+	my-1 (margin top and bottom)
+	my-2 (margin top and bottom)
+	my-3 (margin top and bottom)
+	my-4 (margin top and bottom)
+	my-5 (margin top and bottom)
+	m-0 (margin on all sides)
+	m-1 (margin on all sides)
+	m-2 (margin on all sides)
+	m-3 (margin on all sides)
+	m-4 (margin on all sides)
+	m-5 (margin on all sides)
+	pb-0 (padding bottom)
+	pb-1 (padding bottom)
+	pb-2 (padding bottom)
+	pb-3 (padding bottom)
+	pb-4 (padding bottom)
+	pb-5 (padding bottom)
+	pt-0 (padding top)
+	pt-1 (padding top)
+	pt-2 (padding top)
+	pt-3 (padding top)
+	pt-4 (padding top)
+	pt-5 (padding top)
+	pl-0 (padding left)
+	pl-1 (padding left)
+	pl-2 (padding left)
+	pl-3 (padding left)
+	pl-4 (padding left)
+	pl-5 (padding left)
+	pr-0 (padding right)
+	pr-1 (padding right)
+	pr-2 (padding right)
+	pr-3 (padding right)
+	pr-4 (padding right)
+	pr-5 (padding right)
+	px-0 (padding left and right)
+	px-1 (padding left and right)
+	px-2 (padding left and right)
+	px-3 (padding left and right)
+	px-4 (padding left and right)
+	px-5 (padding left and right)
+	py-0 (padding top and bottom)
+	py-1 (padding top and bottom)
+	py-2 (padding top and bottom)
+	py-3 (padding top and bottom)
+	py-4 (padding top and bottom)
+	py-5 (padding top and bottom)
+	p-0 (padding on all sides)
+	p-1 (padding on all sides)
+	p-2 (padding on all sides)
+	p-3 (padding on all sides)
+	p-4 (padding on all sides)
+	p-5 (padding on all sides)
+
+6. Sizing and Borders
+	w-25 (width)
+	w-50 (width)
+	w-75 (width)
+	w-100 (width)
+	h-25 (height)
+	h-50 (height)
+	h-75 (height)
+	h-100 (height)
+	border
+	border border-primary
+	border border-secondary
+	border border-success
+	border border-info
+	border border-warning
+	border border-danger
+	border border-light
+	border border-dark
+	border border-white
+	rounded
+	rounded-top
+	rounded-top-left
+	rounded-top-right  
+	rounded-bottom
+	rounded-bottom-left
+	rounded-bottom-right
+
+7. Breakpoints
+	Min-width
+	sm: 575px
+	md:	768px
+	lg:	992px
+	xl: 1200px
+	Max-width
+	sm: 574px
+	md:	767px
+	lg:	991px
+	xl: 1199px
+
+8. Buttons and Button Groups
+	btn
+	btn btn-primary
+	btn btn-secondary
+	btn btn-success
+	btn btn-info
+	btn btn-danger
+	btn btn-warning
+	btn btn-light
+	btn btn-dark
+	btn btn-link
+	btn btn-outline-primary
+	btn btn-outline-secondary
+	btn btn-outline-success
+	btn btn-outline-info
+	btn btn-outline-danger
+	btn btn-outline-warning
+	btn btn-outline-light
+	btn btn-outline-dark
+	btn btn-outline-link
+	btn btn-lg (large button)
+	btn btn-sm (small-button)
+	btn btn-block (block level button)
+	btn active
+	btn disabled
+	data-toggle="button"
+	btn-group
 	
