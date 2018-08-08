@@ -233,4 +233,8 @@
 	btn disabled
 	data-toggle="button"
 	btn-group
+	btn-toolbar
+
+9. Navbar and Navs
+	
 	
